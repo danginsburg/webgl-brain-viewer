@@ -9,6 +9,22 @@ A runnable version of the demo can be viewed at:
 
 http://www.nmr.mgh.harvard.edu/~rudolph/webgl/brain_viewer/brain_viewer.html
 
+This project includes code that loads and renders:
+
+FreeSurfer (http://surfer.nmr.mgh.harvard.edu/) - Surfaces and Curvature Files
+TrackVis (http://www.trackvis.org) - Tractography Data
+
+
+Running
+-------
+The easiest way to run from a local machine is in the base directory do:
+
+python -m SimpleHTTPServer
+
+...and then point your browser (Chrome-tested) to:
+
+http://localhost:8000/brain_viewer/brain_viewer.html
+
 Authors
 -------
 Dan Ginsburg
