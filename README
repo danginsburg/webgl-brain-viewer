@@ -1,0 +1,16 @@
+Brain Surface and Tractography Viewer
+-------------------------------------
+
+This project contains the source code to the Brain Surface and Tractography
+Viewer developed at Children's Hospital Boston in the Fetal-Neonatal Neuroimaging
+and Development Science Center.
+
+A runnable version of the demo can be viewed at:
+
+http://www.nmr.mgh.harvard.edu/~rudolph/webgl/brain_viewer/brain_viewer.html
+
+Authors
+-------
+Dan Ginsburg
+Rudolph Pienaar
+Stephan Gerhard
