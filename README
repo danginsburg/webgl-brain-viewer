@@ -1,4 +1,4 @@
-Brain Surface and Tractography Viewer
+# Brain Surface and Tractography Viewer
 -------------------------------------
 
 This project contains the source code to the Brain Surface and Tractography
@@ -15,7 +15,7 @@ FreeSurfer (http://surfer.nmr.mgh.harvard.edu/) - Surfaces and Curvature Files
 TrackVis (http://www.trackvis.org) - Tractography Data
 
 
-Running
+# Running
 -------
 The easiest way to run from a local machine is in the base directory do:
 
@@ -25,7 +25,7 @@ python -m SimpleHTTPServer
 
 http://localhost:8000/brain_viewer/brain_viewer.html
 
-Authors
+# Authors
 -------
 Dan Ginsburg
 Rudolph Pienaar
